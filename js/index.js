@@ -1,0 +1,3 @@
+$(()=>{
+	$('.banner').addClass('home')
+})
